@@ -162,6 +162,7 @@ header {
     display: block;
 }
 
+
 /* ------------- Work ------------- */
 #work {
     padding: 30px 0;
@@ -205,7 +206,6 @@ header {
    background: #ff004f;
     transform: translateY(-10px);
 }
-
 
 /* -----------contact----------- */
 
@@ -256,8 +256,24 @@ button {
 .fas {
     display: none;
 }
-/* Media Section */
-@media only screen and (max-width: 600px) {
+
+  /* @media screen and (min-width: 768px) {
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+  
+  @media screen and (min-width: 992px) {
+    section {
+      display: flex;
+      justify-content: space-between;
+    }
+  } */
+
+ 
+  @media only screen and (max-width: 600px) {
     header {
         background-image: url(image/Yuki2.png);
     }
