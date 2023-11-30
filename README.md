@@ -29,7 +29,7 @@ The following criteria has to be met:
 
 ## Javascript
 ### This is the tab links:
-
+![](image/Javascript-Tab-Links.gif)
 
 ### This is the side menu:
 ![](image/Javascript-Side-Menu.gif)
