@@ -5,5 +5,5 @@ Welcome to Yukitoshi's Portfolio.
 
 ## Screenshot
 
-![](image/Desktop%20Version.pngDesktop Version.png)
-![](image/Mobile%20Version.pngMobile Version.png)
+![](./image/Desktop-Version.png)
+![](./image/Mobile-Version.png)
