@@ -1,5 +1,5 @@
 # Yukitoshi-Portfolio
-Welcome to Yukitoshi's Portfolio. A meticulously crafted portfolio has been developed, effectively showcasing expertise and accomplishments. This user-friendly platform seamlessly guides potential employers through profile, work, and contact information, fostering a comprehensive understanding of their capabilities.
+Welcome to Yukitoshi's Portfolio. A meticulously crafted portfolio has been developed, effectively showcasing expertise and accomplishments. This user-friendly platform seamlessly guides potential employers through profile, work, and contact information, fostering a comprehensive understanding of capabilities.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to Yukitoshi's Portfolio. A meticulously crafted portfolio has been deve
 ## Objectives
 The following criteria has to be met:
 
-- When loading the employee's portfolio, I should present my name, a recent photo or avatar, and links to sections about them, their work, and how to contact them.
+- When loading the employee's portfolio, I should present my name, a recent photo or avatar, and links to sections about myself, my work, and how to contact.
 - Clicking on any of the navigation links should scroll the UI to the corresponding section.
 - When you click on the link to the section about my work, the UI should scroll to a section with titled images of the developer's applications. 
 - The first application presented should have a larger image than the others.
