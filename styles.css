@@ -205,3 +205,54 @@ header {
    background: #ff004f;
     transform: translateY(-10px);
 }
+
+
+/* -----------contact----------- */
+
+.details {
+    margin-top: 20px;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.details form {
+    margin-top: 20px;
+    width: 50%;
+    /* Centered the contact form */
+    display: inline-block;
+}
+
+form input, form textarea {
+    width: 100%;
+    border: 0;
+    outline: none;
+    background: #262626;
+    padding: 15px;
+    margin: 15px 0;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 6px;
+}
+
+button {
+    display: inline-block;
+    margin: 50px auto;
+    width: fit-content;
+    border: 1px solid #ff004f;
+    background: #ff004f;
+    padding: 14px 60px;
+    font-size: 18px;
+    border-radius: 6px;
+    margin-top: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+.fas {
+    display: none;
+}
