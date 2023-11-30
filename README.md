@@ -27,7 +27,7 @@ This is the mobile version:
 ![](./image/Mobile-Version.png)
 
 ## Javascript
-![](image/Javascript-Side-Menu.gifJavascript-Side-Menu.gif)
+![](image/Javascript-Side-Menu.gif)
 
 ## Output
 The successfully developed portfolio effectively fulfills the specified criteria and serves as a compelling tool for potential employees to showcase their skills and experience. The user-friendly interface, responsive design, and emphasis on highlighting the developer's work make it an asset in the job application process.
