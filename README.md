@@ -1,5 +1,5 @@
 # Yukitoshi-Portfolio
-Welcome to Yukitoshi's Portfolio. A meticulously crafted portfolio has been developed, effectively showcasing my expertise and accomplishments. This user-friendly platform seamlessly guides potential employers through my profile, work, and contact information, fostering a comprehensive understanding of their capabilities.
+Welcome to Yukitoshi's Portfolio. A meticulously crafted portfolio has been developed, effectively showcasing expertise and accomplishments. This user-friendly platform seamlessly guides potential employers through profile, work, and contact information, fostering a comprehensive understanding of their capabilities.
 
 ## Table of Contents
 
