@@ -5,6 +5,7 @@ Welcome to Yukitoshi's Portfolio. A meticulously crafted portfolio has been deve
 
 - [Objectives](#objectives)
 - [Screenshot](#screenshot)
+- [JavaScript](#javascript)
 - [Output](#output)
 - [Installation](#installation)
 - [License](#license)
@@ -20,14 +21,20 @@ The following criteria has to be met:
 - The layout should adapt responsively to my viewport.
 
 ## Screenshot
-This is the desktop version:
+### This is the desktop version:
 ![](./image/Desktop-Version.png)
 
-This is the mobile version:
+### This is the mobile version:
 ![](./image/Mobile-Version.png)
 
 ## Javascript
+### This is the tab links:
+
+
+### This is the side menu:
 ![](image/Javascript-Side-Menu.gif)
+
+
 
 ## Output
 The successfully developed portfolio effectively fulfills the specified criteria and serves as a compelling tool for potential employees to showcase their skills and experience. The user-friendly interface, responsive design, and emphasis on highlighting the developer's work make it an asset in the job application process.
