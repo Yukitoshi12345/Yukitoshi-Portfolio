@@ -1,4 +1,4 @@
-# Yukitoshi-Portfolio
+# Yukitoshi Portfolio
 Welcome to Yukitoshi's Portfolio. A meticulously crafted portfolio has been developed, effectively showcasing expertise and accomplishments. This user-friendly platform seamlessly guides potential employers through profile, work, and contact information, fostering a comprehensive understanding of capabilities.
 
 ## Table of Contents
@@ -26,17 +26,17 @@ There are 3 projects I have assisted in creating a website, which are Sydney Uni
 
 ## Screenshot
 ### This is the desktop version:
-![](./image/Desktop-Version.png)
+![](./assets/images/Desktop-Version.png)
 
 ### This is the mobile version:
-![](./image/Mobile-Version.png)
+![](./assets/images/Mobile-Version.png)
 
 ## Javascript
 ### This is the tab links:
-![](image/Javascript-Tab-Links.gif)
+![](assets/images/Javascript-Tab-Links.gif)
 
 ### This is the side menu:
-![](image/Javascript-Side-Menu.gif)
+![](assets/images/Javascript-Side-Menu.gif)
 
 
 
