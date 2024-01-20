@@ -1,4 +1,4 @@
-![HTML CSS](https://img.shields.io/badge/HTML-CSS-blue) ![JavaScript JQuery](https://img.shields.io/badge/Javascript-orange)
+![HTML CSS](https://img.shields.io/badge/HTML-CSS-blue) ![JavaScript](https://img.shields.io/badge/Javascript-orange)
 
 # Yukitoshi Portfolio
 Welcome to Yukitoshi's Portfolio. A meticulously crafted portfolio has been developed, effectively showcasing expertise and accomplishments. This user-friendly platform seamlessly guides potential employers through profile, work, and contact information, fostering a comprehensive understanding of capabilities.
