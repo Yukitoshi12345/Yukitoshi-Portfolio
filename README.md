@@ -1,13 +1,12 @@
 ![Badge](https://img.shields.io/badge/License-MIT-yellow.svg) ![HTML](https://img.shields.io/badge/HTML-blue) ![CSS](https://img.shields.io/badge/CSS-red) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-# Yukitoshi Portfolio
+<h1 align = "center"> Yukitoshi Portfolio </h1>
 
 Welcome to Yukitoshi's Portfolio. A meticulously crafted portfolio has been developed, effectively showcasing expertise and accomplishments. This user-friendly platform seamlessly guides potential employers through profile, work, and contact information, fostering a comprehensive understanding of capabilities.
 
 ## Table of Contents
 
 - [Objectives](#objectives)
-- [Work](#work)
 - [Screenshot](#screenshot)
 - [JavaScript](#javascript)
 - [Output](#output)
@@ -24,10 +23,6 @@ The following criteria has to be met:
 - The first application presented should have a larger image than the others.
 - Clicking on the images of the applications should take you to that deployed application.
 - The layout should adapt responsively to my viewport.
-
-## Work
-
-There are 3 projects I have assisted in creating a website, which are Sydney University Data Society (SUDATA), Sydney University Mathematics Society (SUMS), and the University of Sydney Quidditch Society (USQC). As for SUMS, I have created the website using SiteGround. As for USQC, I have created 80% of it using SquareSpace. For SUDATA, I have only helped a bit as I was lacking knowledge in HTML, CSS, Javascript at that time. I will be creating a website for the Sydney University Cyber Security Society which is a new society using HTML, CSS, and Javascript! The criteria of clicking image to my deployed application has met for USQC and SUMS.
 
 ## Screenshot
 
