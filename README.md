@@ -6,23 +6,48 @@ Welcome to Yukitoshi's Portfolio. A meticulously crafted portfolio has been deve
 
 ## Table of Contents
 
-- [Objectives](#objectives)
+- [User Story](#user-story)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Technologies Used](#technologies-used)
 - [Screenshot](#screenshot)
 - [JavaScript](#javascript)
 - [Output](#output)
 - [Installation](#installation)
 - [License](#license)
 
-## Objectives
+## User Story
 
-The following criteria has to be met:
+```
+AS AN employer
+I WANT to view a potential employee's deployed portfolio of work samples
+SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+```
 
-- When loading the employee's portfolio, I should present my name, a recent photo or avatar, and links to sections about myself, my work, and how to contact.
-- Clicking on any of the navigation links should scroll the UI to the corresponding section.
-- When you click on the link to the section about my work, the UI should scroll to a section with titled images of the developer's applications.
-- The first application presented should have a larger image than the others.
-- Clicking on the images of the applications should take you to that deployed application.
-- The layout should adapt responsively to my viewport.
+## Acceptance Criteria
+
+Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
+
+```
+GIVEN I need to sample a potential employee's previous work
+WHEN I load their portfolio
+THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them
+WHEN I click one of the links in the navigation
+THEN the UI scrolls to the corresponding section
+WHEN I click on the link to the section about their work
+THEN the UI scrolls to a section with titled images of the developer's applications
+WHEN I am presented with the developer's first application
+THEN that application's image should be larger in size than the others
+WHEN I click on the images of the applications
+THEN I am taken to that deployed application
+WHEN I resize the page or view the site on various screens and devices
+THEN I am presented with a responsive layout that adapts to my viewport
+```
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
 
 ## Screenshot
 
