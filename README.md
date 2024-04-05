@@ -13,6 +13,7 @@ Welcome to Yukitoshi's Portfolio. A meticulously crafted portfolio has been deve
 - [JavaScript](#javascript)
 - [Output](#output)
 - [Installation](#installation)
+- [Central Grader Comments](#central-grader-comments)
 - [License](#license)
 
 ## User Story
@@ -80,6 +81,24 @@ The project was uploaded to [GitHub](https://github.com/) at the following repos
 
 You can access the deployed application with the GitHub Pages link:
 [https://yukitoshi12345.github.io/Yukitoshi-Portfolio/](https://yukitoshi12345.github.io/Yukitoshi-Portfolio/)
+
+## Central Grader Comments
+
+Grade: 100/100
+
+Hi Yukitoshi, really great work on this assignment! You showed your ability to create a super nice portfolio website using HTML and CSS. Your navigation works well and sends users to the correct location on the page, well done!
+
+Your UI is really nice, I can see that you have good experience in web development based on the layout and design choices. Your application is responsive, it looks great on smaller devices as well as larger ones thanks to your use of flexbox and media queries, very nicely done!
+
+Great job deploying your application, you were able to deploy to a live URL and your application loads with no errors.
+
+You were able to submit your GitHub URL and your repo has a unique name.You made many commits to your repo and your commit messages were good at explaining the changes you made to your code, great job. You were able to comment on your CSS code which is nicely done. Commenting on your code shows graders that you understand your code and makes it easier for you to navigate your code when looking back at it in the future.
+
+Your readme is great, providing a description, screenshot and a link to the deployed application.
+
+I’m very impressed to see you make use of the skills you have learned so far to create this portfolio website. Keep up the brilliant work Yukitoshi!
+
+- RDP, Centralized Grading.
 
 ## License
 
