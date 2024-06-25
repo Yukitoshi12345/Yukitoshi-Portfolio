@@ -12,7 +12,7 @@ Welcome to Yukitoshi's Portfolio. A meticulously crafted portfolio has been deve
 - [Screenshot](#screenshot)
 - [JavaScript](#javascript)
 - [Output](#output)
-- [Installation](#installation)
+- [Deployed Application](#deployed-application)
 - [Central Grader Comments](#central-grader-comments)
 - [License](#license)
 
@@ -74,7 +74,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 The successfully developed portfolio effectively fulfills the specified criteria and serves as a compelling tool for potential employees to showcase their skills and experience. The user-friendly interface, responsive design, and emphasis on highlighting the developer's work make it an asset in the job application process.
 
-## Installation
+## Deployed Application
 
 The project was uploaded to [GitHub](https://github.com/) at the following repository:
 [https://github.com/yukitoshi12345/Yukitoshi-Portfolio](https://github.com/yukitoshi12345/Yukitoshi-Portfolio)
